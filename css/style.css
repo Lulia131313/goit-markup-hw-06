@@ -770,7 +770,7 @@ img {
 }
 @media only screen and (min-width: 768px) {
   .footer-form-div {
-    display: flex;
+    display: inline-block;
     width: 453px;
     height: 80px;
   }
